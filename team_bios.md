@@ -1,7 +1,7 @@
 #  Our Amazing Team
 
 ## Team Members
-- **Kalvian**: Full-stack developer who loves Node.js and backend architecture.
+- **Kalvian**: Senior full-stack developer specializing in Node.js, Python, and cloud architecture. Passionate about clean code and scalable systems.
 
 ---
 *Last updated: [13-08-2025]*
